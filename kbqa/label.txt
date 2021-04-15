@@ -1,0 +1,2 @@
+{"property":[{"standardName":"4","aliases":[],"name":"3"}],"entity":{"standardName":"2","aliases":[],"name":"3"}}
+{"property":[{"standardName":"年纪","aliases":["年龄"],"name":"age"}],"entity":{"standardName":"人","aliases":["同学","朋友"],"name":"people"}}
